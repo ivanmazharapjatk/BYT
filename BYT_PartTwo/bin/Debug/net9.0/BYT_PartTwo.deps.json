@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BYT_PartTwo/1.0.0": {
+        "runtime": {
+          "BYT_PartTwo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BYT_PartTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

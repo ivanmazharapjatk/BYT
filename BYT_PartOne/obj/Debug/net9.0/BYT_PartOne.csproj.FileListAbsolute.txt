@@ -1,0 +1,14 @@
+D:\BYT\BYT_PartOne\bin\Debug\net9.0\BYT_PartOne.exe
+D:\BYT\BYT_PartOne\bin\Debug\net9.0\BYT_PartOne.deps.json
+D:\BYT\BYT_PartOne\bin\Debug\net9.0\BYT_PartOne.runtimeconfig.json
+D:\BYT\BYT_PartOne\bin\Debug\net9.0\BYT_PartOne.dll
+D:\BYT\BYT_PartOne\bin\Debug\net9.0\BYT_PartOne.pdb
+D:\BYT\BYT_PartOne\obj\Debug\net9.0\BYT_PartOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\BYT\BYT_PartOne\obj\Debug\net9.0\BYT_PartOne.AssemblyInfoInputs.cache
+D:\BYT\BYT_PartOne\obj\Debug\net9.0\BYT_PartOne.AssemblyInfo.cs
+D:\BYT\BYT_PartOne\obj\Debug\net9.0\BYT_PartOne.csproj.CoreCompileInputs.cache
+D:\BYT\BYT_PartOne\obj\Debug\net9.0\BYT_PartOne.dll
+D:\BYT\BYT_PartOne\obj\Debug\net9.0\refint\BYT_PartOne.dll
+D:\BYT\BYT_PartOne\obj\Debug\net9.0\BYT_PartOne.pdb
+D:\BYT\BYT_PartOne\obj\Debug\net9.0\BYT_PartOne.genruntimeconfig.cache
+D:\BYT\BYT_PartOne\obj\Debug\net9.0\ref\BYT_PartOne.dll
